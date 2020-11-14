@@ -1,1 +1,1 @@
-FROM gcr.io/kube-cross:v1.15.2-1
+FROM k8s.gcr.io/build-image/kube-cross:v1.15.2-1
